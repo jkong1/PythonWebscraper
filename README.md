@@ -1,1 +1,1 @@
-# PythonWebscraper
+# This is a basic webscraper
